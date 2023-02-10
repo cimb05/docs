@@ -1,5 +1,6 @@
-### Node.js 环境搭建
+# Node.js 环境搭建
 
+## Node.js安装
 
 - 配置环境变量
 
@@ -23,4 +24,30 @@ npm config ls
 
 ```
 npm install -g cnpm
+```
+
+##  配置npm
+
+### 1.	npm安装指定版本
+
+```shell
+npm -g install npm@5.10.0
+```
+
+### 2. npm 切换最新版本
+```shell
+npm install -g npm
+```
+### 3. 切换npm镜像源
+- 淘宝镜像源
+```
+npm config set registry http://registry.npm.taobao.org
+```
+- 查看镜像源
+```
+npm get registry
+```
+- 官方镜像源
+```
+npm config set registry http://www.npmjs.org
 ```
