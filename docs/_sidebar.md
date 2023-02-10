@@ -1,12 +1,12 @@
 - **软件分享**
     - [基础软件](/application/Base.md)
 - **环境搭建**
-    - [Git环境搭建](/environment/Git.md)
-    - [Node环境搭建](/environment/Node.md)
-    - [Java环境搭建](/environment/Java.md)
-    - [Maven环境搭建](/environment/Maven.md)
-    - [Gradle环境搭建](/environment/Gradle.md)
-    - [Python环境搭建](/environment/Python.md)
+    - [Git 环境搭建](/environment/Git.md)
+    - [Node.js 环境搭建](/environment/Node.js.md)
+    - [Java 环境搭建](/environment/Java.md)
+    - [Maven 环境搭建](/environment/Maven.md)
+    - [Gradle 环境搭建](/environment/Gradle.md)
+    - [Python 环境搭建](/environment/Python.md)
 - **前端学习**
     - [JavaSE](/server/JavaSE.md)
 - **后端学习**

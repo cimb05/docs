@@ -1,3 +1,6 @@
+### Node.js 环境搭建
+
+
 - 配置环境变量
 
 1. 在安装路径下创建`node_cache`、`node_global`文件夹。然后修改node默认保存路径。
